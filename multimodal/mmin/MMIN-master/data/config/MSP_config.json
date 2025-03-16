@@ -1,0 +1,6 @@
+{
+    "data_root": "/home/hetianqu/dataset/MSP-IMPROV",
+    "target_root": "/home/hetianqu/dataset/MSP-IMPROV_features_2021/target",
+    "total_cv": 12,
+    "feature_root": "/home/hetianqu/dataset/MSP-IMPROV_features_2021"
+}

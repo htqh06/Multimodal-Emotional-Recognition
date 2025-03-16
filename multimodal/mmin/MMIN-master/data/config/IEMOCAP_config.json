@@ -1,0 +1,6 @@
+{
+    "data_root": "D:/Graduation_IEMOCAP/IEMOCAP_full_release",
+    "target_root": "D:\\Graduation_project\\dataset\\IEMOCAP\\IEMOCAP_features_2021\\target",
+    "total_cv": 10,
+    "feature_root": "D:\\Graduation_project\\dataset\\IEMOCAP\\IEMOCAP_features_2021"
+}
